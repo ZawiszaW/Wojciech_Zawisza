@@ -1,0 +1,6 @@
+imię: Wojciech
+nazwisko: Zawisza
+numer allbumu: 223928
+e-mail 223928@edu.p.lodz.pl
+tryb studiów: niestacjonarne
+grupa 2AiSR1
